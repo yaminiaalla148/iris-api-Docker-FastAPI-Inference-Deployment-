@@ -50,4 +50,4 @@ def predict(input: IrisInput):
         raise HTTPException(status_code=500, detail=str(e))
 @app.get("/")
 def home():
-    return {"message": "Iris API is running 🚀"}
+    return {"message": "Iris API is running "}
