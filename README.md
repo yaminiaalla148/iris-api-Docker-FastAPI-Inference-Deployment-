@@ -3,7 +3,6 @@
 
 A machine learning API for classifying Iris flower species using FastAPI and scikit-learn. The model is trained on the classic Iris dataset and deployed as a containerized application.
 
-
 ##  Features
 
 - **FastAPI Framework**: Modern, fast web framework for building APIs
